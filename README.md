@@ -1,1 +1,2 @@
 # Typing-Friend
+# React app
